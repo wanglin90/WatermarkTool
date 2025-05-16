@@ -1,0 +1,7 @@
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+lama-cleaner==1.2.5
+opencv-python~=4.8.0
+Pillow~=10.0.0
+numpy==1.23.5
